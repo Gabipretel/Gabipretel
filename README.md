@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,Soy Gabriel Pretel</h1>
-<h1 align="center">  Un poco sobre mi...💬</h1>
+<h3 align="center">  Un poco sobre mi...💬</h3>
 <h3 align="center">
 
   Soy desarrollador Full Stack 💻 graduado del bootcamp de Soy Henry 💛 , me encuentro en busqueda de mi primer trabajo IT
