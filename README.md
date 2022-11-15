@@ -1,4 +1,5 @@
-<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" >
+<p align="center"><img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" style='width:60%' >  </p>
+
 <h1 align="center">Hola 👋,Soy Gabriel Pretel</h1>
 <h3 align="center">  Un poco sobre mi...💬</h3>
 <h3 align="center">
