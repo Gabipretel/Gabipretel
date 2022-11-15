@@ -6,8 +6,8 @@
   Soy Full Stack Developer 💻 graduado del bootcamp de Soy Henry 💛, soy una persona apasionada por la tecnología, los videosjuegos🎮 y el deporte 🏀 actualmente sigo capacitandome en diferentes tecnologías en busqueda de mi primer trabajo IT.
   
   
-  Aquí debajo podrán ver algunos de los proyectos que he realizado.</h3>
-  👇
+  Aquí debajo podrán ver algunos de los proyectos que he realizado👇</h3>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabipretel&label=Profile%20views&color=0e75b6&style=flat" alt="gabipretel" /> </p>
 
