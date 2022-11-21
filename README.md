@@ -4,12 +4,8 @@
 <h3 align="center">  Un poco sobre mi...💬</h3>
 <h3 align="center">
   Soy Full Stack Developer 💻 graduado del bootcamp de Soy Henry 💛, soy una persona apasionada por la tecnología, los videosjuegos🎮 y el deporte 🏀 actualmente sigo capacitandome en diferentes tecnologías en busqueda de mi primer trabajo IT.
-  <h3 align="center">A passionate frontend developer from India</h3>
-
+  
 - 📫 No dudes en contactarme! **gabypretel@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
   
