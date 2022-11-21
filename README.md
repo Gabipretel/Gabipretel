@@ -5,19 +5,14 @@
 <h3 align="center">
   Soy Full Stack Developer 💻 graduado del bootcamp de Soy Henry 💛, soy una persona apasionada por la tecnología, los videosjuegos🎮 y el deporte 🏀 actualmente sigo capacitandome en diferentes tecnologías en busqueda de mi primer trabajo IT.
   
-- 📫 No dudes en contactarme! **gabypretel@outlook.com**
 </p>
-
-  
- 
-  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabipretel&label=Profile%20views&color=0e75b6&style=flat" alt="gabipretel" /> </p>
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">📫 No dudes en contactarme!</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-pretel-2ab1551b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-pretel-2ab1551b7/" height="30" width="40" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pretel-2ab1551b7/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabypretel@outlook.es)
 
 <h3 align="left">LENGUAJES Y HERRAMIENTAS:</h3>
 <table align="center"><tr><td valign="top" width="33%">
