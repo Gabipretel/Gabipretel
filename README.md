@@ -9,7 +9,7 @@
 </p>
 
   
-  Aquí debajo podrán ver algunos de los proyectos que he realizado👇</h3>
+ 
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabipretel&label=Profile%20views&color=0e75b6&style=flat" alt="gabipretel" /> </p>
@@ -26,4 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabipretel&show_icons=true&theme=radical&locale=en&layout=compact" alt="gabipretel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabipretel&show_icons=true&theme=radical&locale=en" alt="gabipretel" /></p>
+   <h3>Aquí debajo podrán ver algunos de los proyectos que he realizado👇</h3>
 
