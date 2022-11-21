@@ -11,6 +11,7 @@
 
 <h3 align="left">📫 No dudes en contactarme!</h3>
 <p align="left">
+  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pretel-2ab1551b7/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabypretel@outlook.es)
 
