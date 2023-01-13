@@ -28,10 +28,8 @@
   
 <p align= "center">
   <img src="https://user-images.githubusercontent.com/102552376/203137693-e4a03856-6bf6-4191-a277-e666aedb3c24.jpg" alt="img not found" width="700"/>
-  <img src="https://user-images.githubusercontent.com/102552376/203137811-8bb9cb16-9d95-49f3-899c-37cfce5b9618.jpg" alt="img not found" width="700"/>  
-  <img src="[productDetails](https://user-images.githubusercontent.com/99918445/212421080-99e3895a-2edd-4615-964b-4a7a69763a44.jpg)
-" alt="img not found" width="700"/>
-  <img src="[ecommerce-carro](https://user-images.githubusercontent.com/99918445/212421168-5ce31b6c-4f56-4437-8e0c-78a5e673afca.jpg)
-" alt="img not found" width="700"/>
+  <img src="https://user-images.githubusercontent.com/102552376/203137811-8bb9cb16-9d95-49f3-899c-37cfce5b9618.jpg" alt="img not found" width="700"/>
+  <img src="https://user-images.githubusercontent.com/99918445/212421946-f5aef354-9c4d-4905-963a-1bebac19ce5c.jpg" alt="img not found" width="700"/>
+   <img src="https://user-images.githubusercontent.com/99918445/212422042-315bfb2e-c7c6-474d-bcc7-ecefb307c347.jpg" alt="img not found" width="700"/>
 </p>
   
