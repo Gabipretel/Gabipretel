@@ -22,6 +22,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabipretel&show_icons=true&theme=radical&locale=en&layout=compact" alt="gabipretel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabipretel&show_icons=true&theme=radical&locale=en" alt="gabipretel" /></p>
-   <h3>Aquí debajo podrán ver algunos de los proyectos💻 que he realizado👇</h3>
-href="https://henryhealthy.shop/"
+ <h2 align="left">📌Mis Proyectos:</h2>
+
+<h3 align="left"> <a  target="_blank" href="https://henryhealthy.shop/">E-commerce Healthy Food:</a></h3>
+  
+<p align= "center">
+  <img src="https://user-images.githubusercontent.com/102552376/203137693-e4a03856-6bf6-4191-a277-e666aedb3c24.jpg" alt="img not found" width="700"/>
+  <img src="https://user-images.githubusercontent.com/102552376/203137811-8bb9cb16-9d95-49f3-899c-37cfce5b9618.jpg" alt="img not found" width="700"/>  
+</p>
   
