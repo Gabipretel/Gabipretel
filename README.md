@@ -31,8 +31,12 @@
    <img src="https://user-images.githubusercontent.com/102552376/203137693-e4a03856-6bf6-4191-a277-e666aedb3c24.jpg" alt="img not found" width="600"/>
    </p>
   
-  <img src="https://user-images.githubusercontent.com/102552376/203137811-8bb9cb16-9d95-49f3-899c-37cfce5b9618.jpg" alt="img not found" width="600"/>
-  <img src="https://user-images.githubusercontent.com/99918445/212422208-4ddd243c-70dc-4649-8ee2-2977322d2913.jpg" alt="img not found" width="600"/> 
+   <p align= "center"> 
+   <img src="https://user-images.githubusercontent.com/102552376/203137811-8bb9cb16-9d95-49f3-899c-37cfce5b9618.jpg" alt="img not found" width="600"/>
+   </p>
+   <p align= "center"> 
+    <img src="https://user-images.githubusercontent.com/99918445/212422208-4ddd243c-70dc-4649-8ee2-2977322d2913.jpg" alt="img not found" width="600"/> 
+   </p>
 </p>
   
 <h3 align="left"> <a href="https://henryhealthy.shop/" target="_blank" >Puppies App 🐶:</a></h3>
