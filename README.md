@@ -50,8 +50,8 @@
   <img src="https://user-images.githubusercontent.com/99918445/212423958-90b9dbcc-c947-401d-8594-58c3ca8401d2.jpg" width="600"/>
    </p>
   
-     <p align= "center"> 
- <img src="https://user-images.githubusercontent.com/99918445/212424065-f46f69e2-9288-439f-9723-4c21ee92d5a0.jpg" alt="img not found" width="600"/>
+   <p align= "center"> 
+    <img src="https://user-images.githubusercontent.com/99918445/212424065-f46f69e2-9288-439f-9723-4c21ee92d5a0.jpg" alt="img not found" width="600"/>
    </p>
   
   </p>
