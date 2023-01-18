@@ -5,6 +5,9 @@
 <h3 align="center">
   Soy Full Stack Developer 💻 graduado del bootcamp de Soy Henry 💛, soy una persona apasionada por la tecnología, los videosjuegos🎮 y el deporte 🏀 actualmente sigo capacitandome en diferentes tecnologías en busqueda de mi primer trabajo IT.
   
+  Actualmente soy Voluntario en la ONG fundación Plan 21 ☘  y en la ONG Green UX ♻ ambas como  Full Stack Developer💻, desarrollando y mejorando sus apps con el uso de React,Redux en el front-end y TypeORM ,Typescript  en el backend.
+
+  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabipretel&label=Profile%20views&color=0e75b6&style=flat" alt="gabipretel" /> </p>
@@ -22,7 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabipretel&show_icons=true&theme=radical&locale=en&layout=compact" alt="gabipretel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabipretel&show_icons=true&theme=radical&locale=en" alt="gabipretel" /></p>
- <h2 align="left">📌Mis Proyectos:</h2>
+ <h2 align="left">📌Mis Proyectos Principales:</h2>
 
 <h3 align="left"> <a href="https://henryhealthy.shop/" target="_blank" >E-commerce Healthy Food🍚:</a></h3>
   
@@ -55,3 +58,4 @@
    </p>
   
   </p>
+  📌Demás Proyectos 👇
