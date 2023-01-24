@@ -5,7 +5,7 @@
 <h3 align="center">
   Soy Full Stack Developer 💻 graduado del bootcamp de Soy Henry 💛, soy una persona apasionada por la tecnología, los videosjuegos🎮 y el deporte 🏀 actualmente sigo capacitandome en diferentes tecnologías en busqueda de mi primer trabajo IT.
   
-  Actualmente soy Voluntario en la ONG fundación Plan 21 ☘  y en la empresa Green UX 💚 ambas como  Full Stack Developer💻, desarrollando y mejorando sus apps con el uso de React,Redux en el front-end y TypeORM ,Typescript  en el backend.
+  Actualmente soy Voluntario en la ONG fundación Plan 21 ☘  y en la empresa Green UX 💚 ambas como  Full Stack Developer💻, desarrollando y mejorando sus apps con el uso de React,Redux en el front-end y Node, Express,TypeORM, Sequelize, PostgresSql ,Typescript en el backend.
 
   
 </p>
