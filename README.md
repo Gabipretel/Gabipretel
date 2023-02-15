@@ -58,7 +58,7 @@
    </p>
 </p>
   
-<h3 align="left"> <a href="https://henryhealthy.shop/" target="_blank" >Puppies App 🐶:</a></h3>
+<h3 align="left"> <a href="https://pi-dogs.dkndrd.com/" target="_blank" >Puppies App 🐶:</a></h3>
   
 <p align= "center">
    <p align= "center"> 
